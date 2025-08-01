@@ -66,6 +66,8 @@
 <p align="left">“Programar me fez enxergar o desenho com mais estrutura, e desenhar me ensinou a ver a programação com mais fluidez.”</p>
 
 ###
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipeGenaro/lipeGenaro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipeGenaro/lipeGenaro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lipeGenaro/lipeGenaro/output/pacman-contribution-graph.svg">
+</picture>
