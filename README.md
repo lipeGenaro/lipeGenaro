@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou Genaro</h1>
+<h1 align="center">Olá, eu sou Genaro!</h1>
 
 ###
 
@@ -47,6 +47,8 @@
 <p align="left">📷Instagram: @f.genaroo<br>✉Email: felipegenaro18@gmail.com</p>
 
 ###
+
+
 
 
 <h1 align="left">💡Curiosidade</h1>
