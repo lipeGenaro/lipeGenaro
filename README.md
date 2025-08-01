@@ -48,18 +48,19 @@
 
 ###
 
-<h1 align="left">Frase</h1>
-
-###
-
-<p align="left">“Programar me fez enxergar o desenho com mais estrutura, e desenhar me ensinou a ver a programação com mais fluidez.”</p>
-
-###
 
 <h1 align="left">💡Curiosidade</h1>
 
 ###
 
 <p align="left">Além de programar, também gosto muito de desenhar, acredito que ao desenhar você organiza formas, proporções e espaços além de ajudar na criatividade.</p>
+
+###
+
+<h1 align="left">Frase</h1>
+
+###
+
+<p align="left">“Programar me fez enxergar o desenho com mais estrutura, e desenhar me ensinou a ver a programação com mais fluidez.”</p>
 
 ###
