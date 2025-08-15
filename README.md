@@ -1,3 +1,5 @@
+<img src="https://github.com/LipeGenaro/LipeGenaro/blob/main/assets/gif-github.gif" />
+
 <h1 align="center">Olá, eu sou Genaro!</h1>
 
 ###
