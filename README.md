@@ -1,11 +1,12 @@
 <img src="https://github.com/LipeGenaro/LipeGenaro/blob/main/assets/gif-github.gif" />
 
-<h1 align="center">Olá, eu sou o Genaro!</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4169E1&size=35&center=true&width=1000&lines=Ol%C3%A1!%2C+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 ###
 
-<h1 align="left">👩‍💻 Sobre mim</h1>
+<h1 align="left" style="color:#4169E1;">👩‍💻 Sobre mim</h1>
 
 ###
 
